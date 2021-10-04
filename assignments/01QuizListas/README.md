@@ -1,5 +1,5 @@
 ![Tec de Monterrey](../../images/logotecmty.png)
-# Suma dos listas por posición
+# Multiplicación dos listas por posición
 ## Tema: Listas
 
 Modifica el programa que se encuentra en la carpeta `src` que se llama `exercise.py` y que contiene el siguiente código:
@@ -14,7 +14,7 @@ if __name__ == '__main__':
 
 La línea `#escribe tu código abajo de esta línea` es un comentario, el programa la va a ignorar al ejecutarse.
 
-Desarrolla un programa que permita realizar la suma elemento a elemento de dos listas de números enteros y con la misma cantidad de elementos.
+Desarrolla un programa que permita realizar la multiplicación elemento a elemento de dos listas de números enteros y con la misma cantidad de elementos.
 
 ## Entrada
 Un número entero que indica cuántos elementos tendrá cada lista. El número debe ser mayor a 0.
@@ -23,7 +23,7 @@ Posteriormente el ingreso de los números enteros correspondientes a los element
 
 ## Salida
 Si el número inicial ingresado es 0 o menor, deberá desplegar el mensaje "Error"
-Una lista donde los elementos corresponde a la suma de los elementos de las dos listas de acuerdo con su posición, es decir los elementos de la posición 0 de las dos listas se suman y se ponen en la posición 0 de la lista resultado y así consecutivamente para todos los datos de la lista.
+Una lista donde los elementos corresponde a la multiplicación de los elementos de las dos listas de acuerdo con su posición, es decir los elementos de la posición 0 de las dos listas se multiplicación y se ponen en la posición 0 de la lista resultado y así consecutivamente para todos los datos de la lista.
 
 
 ## Ejemplo de ejecución del programa
@@ -37,7 +37,7 @@ Una lista donde los elementos corresponde a la suma de los elementos de las dos 
 ```
 ### Salida
 ```
-[9, 5]
+[20, 6]
 ```
 ### Entrada
 ```

@@ -6,8 +6,8 @@ input_values = [
     # Test case 1
     (
     [5, 1, 2, 3, 4, 5, 1, 2, 3, 4, 5],
-    ["","","","","","","","","","","","[2, 4, 6, 8, 10]"],
-    ["La salida no cumple con el caso de prueba\nLa suma de los números es incorrecta"]
+    ["","","","","","","","","","","","[1, 4, 9, 16, 25]"],
+    ["La salida no cumple con el caso de prueba\nLa multiplicación de los números es incorrecta"]
     ),
     # Test case 2
     (
